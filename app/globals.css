@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --color-risk-critical: var(--risk-critical);
+  --color-risk-high: var(--risk-high);
+  --color-risk-elevated: var(--risk-elevated);
+  --color-risk-medium: var(--risk-medium);
+  --color-risk-low: var(--risk-low);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  --radius: 0.75rem;
+
+  /* Airy white theme */
+  --background: oklch(0.99 0.002 250);
+  --foreground: oklch(0.21 0.02 255);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.21 0.02 255);
+  --muted: oklch(0.97 0.004 250);
+  --muted-foreground: oklch(0.52 0.015 255);
+  --border: oklch(0.92 0.005 250);
+  --input: oklch(0.92 0.005 250);
+  --ring: oklch(0.55 0.16 255);
+
+  /* Single trustworthy accent (indigo-blue) */
+  --primary: oklch(0.52 0.18 262);
+  --primary-foreground: oklch(0.99 0.002 250);
+  --accent: oklch(0.96 0.02 262);
+  --accent-foreground: oklch(0.42 0.16 262);
+
+  /* Semantic risk colors */
+  --risk-critical: oklch(0.55 0.22 18);
+  --risk-high: oklch(0.62 0.2 30);
+  --risk-elevated: oklch(0.7 0.17 60);
+  --risk-medium: oklch(0.78 0.15 90);
+  --risk-low: oklch(0.65 0.16 155);
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
