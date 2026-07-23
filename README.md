@@ -156,4 +156,4 @@ RECOMMENDATION: DO NOT CLICK LINKS OR SHARE DETAILS
 <b>IF YOU FIND THIS PROJECT USEFUL,</b>  
 <b>PLEASE STAR ⭐ THE REPOSITORY AND HELP SPREAD CYBER AWARENESS.</b>
 
-ye cli based softare hai and ika readme profestional bna and first word capital kar har word capitakl nhi and dede improvve karke mastsa svg icons use ho and mast ho 
+
