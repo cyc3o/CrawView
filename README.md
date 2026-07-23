@@ -1,310 +1,159 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
+![PYTHON](https://img.shields.io/badge/PYTHON-3.9%2B-BLUE)![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-SUCCESS)![LICENSE](https://img.shields.io/badge/LICENSE-MIT-BLUE)
 
-<br><br>
+![ENGINE PREVIEW](https://github.com/cyc3o/SCAM-DETECTION-ENGINE/blob/main/img%2Fui.png)
 
-<img src="https://github.com/cyc3o/SCAM-DETECTION-ENGINE/blob/main/img%2Fui.png" width="850">
+<h1><b> 𝗥ɪꜱᴋ 𝗜ɴᴛᴇʟʟɪɢᴇɴᴄᴇ 𝗦ʏꜱᴛᴇᴍ</b></h1>
 
-<h1>
-🛡️ Risk Intelligence System
-</h1>
-
-<h3>
-Offline SOC-Grade Scam Detection Engine
-</h3>
-
-<p>
-A privacy-first cybersecurity engine that analyzes SMS, emails, and chat messages
-using behavioral intelligence, linguistic analysis, and context-aware risk scoring.
-</p>
+<b>OFFLINE SOC-GRADE SCAM DETECTION ENGINE</b><br>
+<b>ANALYZES SMS, EMAILS, AND CHAT MESSAGES USING</b><br>
+<b>BEHAVIORAL INTELLIGENCE, LINGUISTIC PATTERNS,</b><br>
+<b>AND CONTEXT-AWARE RISK SCORING.</b>
 
 </div>
 
 ---
 
-# 🚨 Overview
+## <b>❓ PROBLEM STATEMENT</b>
 
-Cyber scams are evolving rapidly across SMS, emails, and messaging platforms.
+<b>CYBER SCAMS VIA SMS, EMAILS, AND MESSAGING APPLICATIONS ARE INCREASING RAPIDLY.</b>  
+<b>MOST USERS FAIL TO IDENTIFY SOCIAL-ENGINEERING ATTACKS SUCH AS:</b>
 
-Attackers use social engineering techniques such as urgency, fear, impersonation,
-and financial manipulation to trick users.
+<b>- PHISHING</b>  
+<b>- DIGITAL ARREST SCAMS</b>  
+<b>- FAKE REFUNDS</b>  
+<b>- ROMANCE FRAUDS</b>  
+<b>- CRYPTO AND INVESTMENT SCAMS</b>
 
-Risk Intelligence System helps identify these threats by providing an
-**offline threat analysis environment** similar to a SOC analyst workflow.
-
----
-
-# 🎯 Problem Statement
-
-Modern scams commonly include:
-
-- Phishing attacks
-- Digital arrest scams
-- Fake banking alerts
-- Refund frauds
-- Romance scams
-- Crypto investment scams
-- Identity impersonation attacks
-
-Most users cannot identify these manipulation patterns before becoming victims.
-
-This project provides a local defensive intelligence layer that analyzes suspicious
-messages without sending any data to external servers.
+<b>THIS PROJECT SOLVES THE PROBLEM BY PROVIDING AN OFFLINE, PRIVACY-FIRST, SOC-STYLE THREAT INTELLIGENCE ENGINE.</b>
 
 ---
 
-# ⭐ Key Highlights
+## <b>🚀 WHAT MAKES THIS PROJECT UNIQUE</b>
 
-<div align="center">
-
-| Feature | Description |
-|---|---|
-| 🔒 Offline First | No API, cloud, or internet dependency |
-| 🧠 Behavioral Analysis | Detects social engineering patterns |
-| 📊 Risk Scoring | Generates Low → Critical threat levels |
-| 🌍 Region Intelligence | India, USA, and Global scam patterns |
-| 🔍 Entity Extraction | URLs, phones, emails, UPI IDs, wallets |
-| 🗂 Reputation Memory | Tracks repeated suspicious indicators |
-| 🛡 Privacy Focused | User data never leaves the device |
-
-</div>
+<b>✔ WORKS COMPLETELY OFFLINE (NO API, NO CLOUD, NO INTERNET)</b>  
+<b>✔ SOC-STYLE RISK SCORING (LOW → CRITICAL)</b>  
+<b>✔ BEHAVIORAL MANIPULATION FLOW DETECTION</b>  
+<b>✔ REGION-AWARE INTELLIGENCE (INDIA / USA / GLOBAL)</b>  
+<b>✔ DETECTS UPI IDS, CRYPTO WALLETS, PHONE NUMBERS, URLS</b>  
+<b>✔ OFFLINE REPUTATION MEMORY FOR REPEATED ENTITIES</b>  
+<b>✔ PRIVACY-FIRST DESIGN (NO DATA LEAVES SYSTEM)</b>
 
 ---
 
-# ⚙️ How It Works
+## <b>🧠 HOW IT WORKS</b>
 
-```
-User Message
-      |
-      ▼
-Entity Extraction
-(URLs, Emails, Phones, Wallets)
-      |
-      ▼
-Language & Region Analysis
-      |
-      ▼
-Scam Pattern Detection
-      |
-      ▼
-Behavior Manipulation Analysis
-      |
-      ▼
-Risk Score Generation
-      |
-      ▼
-Threat Verdict
-```
+<b>1. USER INPUTS A MESSAGE (SMS / EMAIL / CHAT)</b>  
+<b>2. ENGINE EXTRACTS ENTITIES (URLS, EMAILS, PHONES, WALLETS)</b>  
+<b>3. LINGUISTIC AND REGIONAL SCAM PATTERNS ARE MATCHED</b>  
+<b>4. BEHAVIORAL MANIPULATION FLOWS ARE DETECTED</b>  
+<b>5. REPUTATION MEMORY CHECKS REPEATED INDICATORS</b>  
+<b>6. FINAL RISK SCORE AND VERDICT ARE GENERATED</b>
 
 ---
 
-# 🚀 Features
+## <b>✨ FEATURES</b>
 
-## 🔍 Scam Intelligence
-
-- Phishing detection
-- Social engineering recognition
-- Banking scam identification
-- Crypto fraud detection
-- UPI scam analysis
-- Suspicious URL detection
-
-
-## 🧠 Behavioral Detection
-
-Detects manipulation techniques:
-
-- Urgency pressure
-- Fear-based messaging
-- Authority impersonation
-- Reward traps
-- Payment pressure
-- Emotional manipulation
-
-
-## 🌐 Language Intelligence
-
-Supported:
-
-- English
-- Hindi
-- Hinglish
-
-
-## 🌍 Regional Intelligence
-
-Detects scam patterns from:
-
-- 🇮🇳 India
-- 🇺🇸 USA
-- 🌎 Global
-
-
-## 📊 SOC Style Analysis
-
-Provides:
-
-- Threat category
-- Risk score
-- Detected indicators
-- Security recommendation
+<b>- PHISHING AND SCAM DETECTION</b>  
+<b>- SOCIAL ENGINEERING PATTERN RECOGNITION</b>  
+<b>- LANGUAGE DETECTION (ENGLISH / HINDI / HINGLISH)</b>  
+<b>- REGION DETECTION (INDIA / USA / GLOBAL)</b>  
+<b>- OFFLINE REPUTATION TRACKING</b>  
+<b>- CRYPTOCURRENCY AND UPI SCAM DETECTION</b>  
+<b>- SOC-GRADE RISK VERDICT</b>  
+<b>- CLI-BASED INTERACTIVE ANALYSIS</b>
 
 ---
 
-# 💻 Installation
+## <b>▶️ HOW TO RUN</b>
 
-## Requirements
+### <b>REQUIREMENTS</b>
+<b>PYTHON 3.X</b>
 
-```
-Python 3.9+
-```
-
----
-
-## Setup
-
+### <b>RUN COMMAND</b>
 ```bash
 git clone https://github.com/cyc3o/SCAM-DETECTION-ENGINE.git
-
 cd SCAM-DETECTION-ENGINE
-
 python main.py
 ```
 
 ---
 
-# ⌨️ CLI Commands
+## <b>⌨️ AVAILABLE COMMANDS</b>
 
-| Command | Action |
-|---|---|
-| Paste Message | Analyze suspicious content |
-| STATS | View session statistics |
-| EXIT | Close application safely |
+<b>- PASTE MESSAGE → PRESS ENTER TWICE TO ANALYZE</b>  
+<b>- STATS → VIEW SESSION STATISTICS</b>  
+<b>- EXIT → SAFE SHUTDOWN</b>
 
 ---
 
-# 🧪 Example Analysis
+## <b>📌 EXAMPLE USE CASE</b>
 
-## Input
-
+### <b>INPUT MESSAGE</b>
 ```
-Your bank account will be blocked today.
-Verify your KYC immediately.
+YOUR BANK ACCOUNT WILL BE BLOCKED TODAY.
+VERIFY KYC IMMEDIATELY.
 ```
 
-## Output
-
+### <b>OUTPUT</b>
 ```
-Threat Level : HIGH
-
-Risk Score   : 110+
-
-Detected:
-- Banking Phishing
-- Urgency Manipulation
-- Credential Harvesting
-
-Recommendation:
-Do not click links or share personal information.
+THREAT LEVEL: HIGH
+RISK SCORE: 110+
+DETECTED: BANKING PHISHING, URGENCY MANIPULATION
+RECOMMENDATION: DO NOT CLICK LINKS OR SHARE DETAILS
 ```
 
 ---
 
-# 👥 Target Users
+## <b>🎯 WHO SHOULD USE THIS</b>
 
-Designed For:
-
-- Cybersecurity students
-- SOC Level 1 / Level 2 analysts
-- Security researchers
-- Scam awareness platforms
-- Offline security tools
-- Future Android SMS protection systems
+<b>- CYBERSECURITY STUDENTS</b>  
+<b>- SOC LEVEL-1 / LEVEL-2 TRAINEES</b>  
+<b>- SCAM AWARENESS TOOLS</b>  
+<b>- OFFLINE MESSAGE ANALYSIS SYSTEMS</b>  
+<b>- ANDROID SMS ANALYZER (FUTURE USE)</b>
 
 ---
 
-# 🏗️ Architecture
+## <b>⚠️ LIMITATIONS</b>
 
-```
-Risk Intelligence Engine
-
-├── Message Analyzer
-├── Pattern Detection Engine
-├── Entity Extractor
-├── Region Intelligence
-├── Reputation Database
-├── Risk Scoring Module
-└── CLI Interface
-```
+<b>- RULE-BASED ENGINE (NO MACHINE LEARNING YET)</b>  
+<b>- COMMAND-LINE INTERFACE ONLY</b>  
+<b>- NO LIVE THREAT FEEDS (BY DESIGN)</b>
 
 ---
 
-# ⚠️ Current Limitations
+## <b>🛣️ FUTURE ENHANCEMENTS</b>
 
-- Rule-based detection engine
-- No machine learning model currently
-- CLI interface only
-- No live threat intelligence feeds
-
----
-
-# 🛣️ Roadmap
-
-## Version 2
-
-- Machine learning based scoring
-- Advanced NLP detection
-- Web dashboard
-- PDF / JSON reports
-
-
-## Version 3
-
-- Android SMS protection
-- Browser extension
-- Threat feed correlation
-- Real-time intelligence integration
+<b>- ANDROID APK INTEGRATION</b>  
+<b>- MACHINE LEARNING BASED SCORING</b>  
+<b>- WEB DASHBOARD</b>  
+<b>- PDF / JSON REPORT EXPORT</b>  
+<b>- LIVE THREAT FEED CORRELATION</b>
 
 ---
 
-# 👨‍💻 Author
+## <b>👤 AUTHOR</b>
 
-## Vishal Thakur
+<b>VISHAL THAKUR</b>  
+<b>CYBERSECURITY ENTHUSIAST | SOC ASPIRANT</b>  
 
-Cybersecurity Enthusiast | SOC Aspirant
-
-Focus Areas:
-
-- Threat Intelligence
-- Scam Detection
-- OSINT
-- Defensive Security
+<b>FOCUS AREAS:</b>  
+<b>SCAM DETECTION • THREAT INTELLIGENCE • OSINT</b>
 
 ---
 
-# ⚖️ Disclaimer
+## <b>⚠️ DISCLAIMER</b>
 
-This project is developed for educational and defensive cybersecurity purposes only.
-
-The author is not responsible for any misuse of this software.
-
----
-
-# ⭐ Support
-
-If this project helps you understand cybersecurity and scam detection,
-
-consider giving the repository a star ⭐
-
-and help spread cybersecurity awareness.
+<b>THIS PROJECT IS FOR EDUCATIONAL AND DEFENSIVE CYBERSECURITY PURPOSES ONLY.</b>  
+<b>THE AUTHOR IS NOT RESPONSIBLE FOR MISUSE.</b>
 
 ---
 
-<div align="center">
+## <b>⭐ SUPPORT</b>
 
-**Built With ❤️ For Defensive Cybersecurity**
+<b>IF YOU FIND THIS PROJECT USEFUL,</b>  
+<b>PLEASE STAR ⭐ THE REPOSITORY AND HELP SPREAD CYBER AWARENESS.</b>
 
-</div>
+ye cli based softare hai and ika readme profestional bna and first word capital kar har word capitakl nhi and dede improvve karke mastsa svg icons use ho and mast ho 
