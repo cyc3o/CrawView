@@ -4,7 +4,7 @@
 ![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-SUCCESS)
 ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-BLUE)
 
-<h1><b>🕷️ CrawView</b></h1>
+<h1><b>🕷️ 𝗖ʀᴀᴡ𝗩ɪᴇᴡ</b></h1>
 
 <b>OFFLINE SCAM DETECTION AND MESSAGE ANALYSIS TOOL</b><br>
 <b>ANALYZES SMS, EMAILS, AND CHAT MESSAGES</b><br>
