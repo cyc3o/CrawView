@@ -4,7 +4,6 @@
 ![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-SUCCESS)
 ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-BLUE)
 
-
 <h1><b>🕷️ CrawView</b></h1>
 
 <b>OFFLINE SCAM DETECTION AND MESSAGE ANALYSIS TOOL</b><br>
@@ -16,7 +15,11 @@
 
 ---
 
+<div align="center">
+
 ## <b>❓ OVERVIEW</b>
+
+</div>
 
 <b>ONLINE SCAMS CONTINUE TO TARGET USERS THROUGH SMS, EMAILS,</b>  
 <b>AND MESSAGING PLATFORMS USING SOCIAL ENGINEERING TECHNIQUES.</b>
@@ -35,7 +38,11 @@
 
 ---
 
+<div align="center">
+
 ## <b>🚀 KEY FEATURES</b>
+
+</div>
 
 <b>✔ COMPLETELY OFFLINE ANALYSIS</b>  
 <b>✔ NO CLOUD OR EXTERNAL API REQUIRED</b>  
@@ -48,9 +55,13 @@
 
 ---
 
+<div align="center">
+
 ## <b>🧠 HOW IT WORKS</b>
 
-<b>1. USER PASTES A MESSAGE</b>  
+</div>
+
+<b>1. USER PASTES A MESSAGE</b>
 
 <b>2. CRAWVIEW EXTRACTS IMPORTANT ENTITIES</b>
 
@@ -64,7 +75,11 @@
 
 ---
 
+<div align="center">
+
 ## <b>✨ FEATURES</b>
+
+</div>
 
 <b>- PHISHING DETECTION</b>
 
@@ -92,7 +107,11 @@
 
 ---
 
+<div align="center">
+
 ## <b>▶️ HOW TO RUN</b>
+
+</div>
 
 ### <b>REQUIREMENTS</b>
 
@@ -108,7 +127,11 @@ python main.py
 
 ---
 
+<div align="center">
+
 ## <b>⌨️ AVAILABLE COMMANDS</b>
+
+</div>
 
 <b>- PASTE A MESSAGE AND PRESS ENTER TWICE TO ANALYZE</b>
 
@@ -122,7 +145,11 @@ python main.py
 
 ---
 
+<div align="center">
+
 ## <b>📌 EXAMPLE</b>
+
+</div>
 
 ### <b>INPUT</b>
 
@@ -148,7 +175,11 @@ DO NOT CLICK SUSPICIOUS LINKS OR SHARE PERSONAL INFORMATION.
 
 ---
 
+<div align="center">
+
 ## <b>🎯 USE CASES</b>
+
+</div>
 
 <b>- CYBERSECURITY STUDENTS</b>
 
@@ -162,7 +193,11 @@ DO NOT CLICK SUSPICIOUS LINKS OR SHARE PERSONAL INFORMATION.
 
 ---
 
+<div align="center">
+
 ## <b>⚠️ LIMITATIONS</b>
+
+</div>
 
 <b>- RULE-BASED DETECTION ENGINE</b>
 
@@ -174,7 +209,11 @@ DO NOT CLICK SUSPICIOUS LINKS OR SHARE PERSONAL INFORMATION.
 
 ---
 
+<div align="center">
+
 ## <b>👤 AUTHOR</b>
+
+</div>
 
 <b>VISHAL THAKUR</b>
 
@@ -186,7 +225,11 @@ DO NOT CLICK SUSPICIOUS LINKS OR SHARE PERSONAL INFORMATION.
 
 ---
 
+<div align="center">
+
 ## <b>⚠️ DISCLAIMER</b>
+
+</div>
 
 <b>THIS PROJECT IS INTENDED FOR EDUCATIONAL, RESEARCH,</b>
 
@@ -198,8 +241,12 @@ DO NOT CLICK SUSPICIOUS LINKS OR SHARE PERSONAL INFORMATION.
 
 ---
 
+<div align="center">
+
 ## <b>⭐ SUPPORT</b>
+
+</div>
 
 <b>IF YOU FIND THIS PROJECT HELPFUL,</b>
 
-<b>CONSIDER STARING THE REPOSITORY TO SUPPORT ITS DEVELOPMENT.</b>
+<b>CONSIDER STARRING THE REPOSITORY TO SUPPORT ITS DEVELOPMENT.</b>
